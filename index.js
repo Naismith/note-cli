@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const { prompt } = require('enquirer');
 const dayjs = require('dayjs');
 const fs = require('fs');
