@@ -1,0 +1,19 @@
+{
+  "name": "note-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "note": "index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dayjs": "^1.8.0",
+    "enquirer": "^2.3.0",
+    "title-case": "^2.1.1"
+  }
+}
